@@ -1,12 +1,17 @@
+body {font-family: 'Source Sans Pro Semibold', sans-serif;
+background-color: #03C7E0;}
 h1{width:100%;
 text-align: center;
-font-size: 40px;}
+font-size: 40px;
+font-family: 'Source Sans Pro Black', sans-serif}
 h2{width:100%;
 text-align: center;
-font-size: 14px;}
+font-size: 14px;
+font-family: 'Source Sans Pro Black', sans-serif}
 .knop{width:116px;
 border-radius: 1000px;
 text-align: center;
 font-size: 14px;
 height: 25px;
-line-height: 25px;}
+line-height: 25px;
+}
